@@ -1,0 +1,65 @@
+{
+  "profile": {
+    "name": "Zexin Zheng",
+    "role": "Postdoctoral Fellow",
+    "faculty": "Faculty of Business and Economics",
+    "university": "The University of Hong Kong",
+    "email": "zzhengaq@hku.hk",
+    "ssrn": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4319232",
+    "photo": "assets/headshot2.png",
+    "photoWidth": 1024,
+    "photoHeight": 1536,
+    "cv": "assets/Zexin-Zheng-CV.pdf"
+  },
+  "home": {
+    "greeting": "Welcome!",
+    "introduction": "I am a postdoctoral fellow at the Faculty of Business and Economics of the University of Hong Kong.",
+    "education": "I received a Ph.D. in Finance from the Hong Kong University of Science and Technology in 2026.",
+    "interests": ["Information economics", "Financial intermediation"],
+    "researchStatement": "I study how information production and disclosure shape the decisions of investors, firms, and financial intermediaries."
+  },
+  "research": {
+    "workingPapers": [
+      {
+        "title": "Institutional Ownership Concentration and Informational Efficiency",
+        "authors": "with Yan Xiong and Liyan Yang",
+        "status": "R&R at Review of Financial Studies",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955277",
+        "awards": "2024 Greater Bay Area Finance Workshop Best Paper Award",
+        "presentations": [
+          {"year": "2026", "text": "MFA Annual Meeting; EFA Annual Meeting."},
+          {"year": "2025", "text": "EUROFIDAI–ESSEC Paris December Finance Meeting; FIFI; NFA; CICF; EAA; SIEM Big Data and Market Microstructure Conference; Melbourne Asset Pricing Meeting; FTG Summer School Evening Sessions; ABFER Poster Session; NTU; Yonsei University; Seoul National University; Peking University."},
+          {"year": "2024", "text": "Annual Conference on Asia-Pacific Financial Markets; PHBS–CUHKSZ Economics and Finance Workshop; Greater Bay Area Finance Workshop; HKUST; and HKUST (GZ)."}
+        ],
+        "abstract": "We study how institutional ownership concentration affects price informativeness, measured by the ability of stock prices to predict future earnings. Using fund-level holdings, we measure stock-level concentration separately among active and passive funds. Active-fund concentration is associated with less informative prices, whereas passive-fund concentration has no stable relation with informativeness. Mergers between active investors provide causal evidence that increased concentration reduces price informativeness. The results hold in U.S. and international samples."
+      },
+      {
+        "title": "Data Valuation in the Shadow of Agency Conflicts",
+        "authors": "Sole author",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5383725",
+        "presentations": [{"text": "HKUST Business School PhD Student Conference"}],
+        "abstract": "This paper quantifies agency conflicts at the firm-year level using an offline deep reinforcement learning (ODRL) framework. Whereas structural estimation offers transparent economic interpretation, the model-free ODRL framework accommodates high-dimensional inputs and their flexible interactions, better capturing the complexity of managerial decision making. The framework estimates optimal management actions based on the objectives of maximizing compensation versus market cap. Actual actions that deviate from market-cap-maximizing actions and align with compensation-maximizing actions indicate high agency conflicts. Applied to a data valuation setting, the measure reveals that investors place less value on management earnings guidance from firms with high agency conflicts due to its lower quality, shifting reliance toward analyst forecasts."
+      }
+    ],
+    "workInProgress": [
+      {
+        "title": "Informational Efficiency in the Agency MBS Market",
+        "authors": "with Michele Dathan, Zhaogang Song, and Yan Xiong"
+      }
+    ],
+    "policyWorks": [
+      {
+        "title": "ESG News and Firm Value: Evidence from China's Automation of Pollution Monitoring",
+        "authors": "with Darwin Choi and Abhiroop Mukherjee",
+        "journal": "Research in International Business and Finance",
+        "year": "2025"
+      },
+      {
+        "title": "Costly Arbitrage and Skewness Pricing: Evidence from First-day Price Limit Reform in China",
+        "authors": "with Jing Yao",
+        "journal": "Pacific-Basin Finance Journal",
+        "year": "2021"
+      }
+    ]
+  }
+}
