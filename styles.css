@@ -91,6 +91,9 @@ main:focus { outline: none; }
   .contact-list li + li { margin-top: 0; }
   .contact-list a { min-height: 36px; align-items: center; }
   main { border-top: 1px solid var(--rule); padding-top: 29px; }
+  /* On mobile, show the profile on Home and go straight to content elsewhere. */
+  .page-cv .profile, .page-research .profile { display: none; }
+  .page-cv main, .page-research main { border-top: 0; padding-top: 0; }
   .welcome { font-size: 25px; margin-bottom: 22px; }
   .biography { font-size: 18px; line-height: 1.75; }
   .biography p { margin-bottom: 22px; }
