@@ -35,7 +35,7 @@ function shell(page, title, description, body) {
   <meta property="og:title" content="${escape(title)}">
   <meta property="og:description" content="${escape(description)}">
   <meta property="og:type" content="website">
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/favicon.png" type="image/png" sizes="96x96">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body class="page-${page}">

@@ -55,10 +55,13 @@ assets/
   headshot2.png
   Zexin-Zheng-CV.pdf
   cv-preview.png
+  favicon.png
   favicon.svg
 ```
 
 You can also keep `content.json`, `build.mjs`, `update-website.cmd`, and this README in the repository for maintenance.
+
+The pages use the 96 × 96 PNG favicon for compatibility with Google Search. `assets/favicon.svg` is retained as the editable source artwork. If you change the icon design, export an updated `assets/favicon.png` as well.
 
 After editing `content.json`, regenerate the website locally before uploading the updated HTML files. When replacing the CV, upload both the new PDF and the refreshed preview image. Uploading `content.json` alone does not update the generated pages.
 
